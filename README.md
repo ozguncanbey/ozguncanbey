@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ozguncanbey
+- 👋 Hi, I’m Özgün
 - 👀 I’m here to learn and share what I know
 - 🌱 I’m currently learning Swift language
 - 💞️ I’m want to be an IOS developer
