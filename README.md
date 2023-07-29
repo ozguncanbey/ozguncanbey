@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Özgün
 - 👀 I’m here to learn and share what I know
 - 🌱 I’m currently learning Swift language
-- 💞️ I’m want to be an IOS developer
+- 💞️ I’m want to be an İOS developer
 - 📫 my email: ozguncanbeydili@hotmail.com and linkedIn: www.linkedin.com/in/özgüncanbeydili
 
 <!---
