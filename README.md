@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Özgün</h1>
 <h3 align="center">A passionate computer engineer</h3>
 
-- 🌱 I’m currently learning **swift and java**
+- 🌱 I’m currently working on **mobile and backend**
 
 - 📫 How to reach me **ozguncanbeydili@hotmail.com**
 
